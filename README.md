@@ -1,2 +1,6 @@
-# flutter_movies
-A simple flutter app that fetches a movie API using GetX package
+# Flutter_movies
+
+⚡ Build an API based movies app using the Flutter Getx package
+
+### Dev dependencies
+- get

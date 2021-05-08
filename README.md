@@ -1,6 +1,6 @@
-### Flutter_movies
+# Flutter_movies
 
-⚡ Build an API based movies app using the Fluuet Getx package
+⚡ Build an API based movies app using the Flutter Getx package
 
 ## Dev dependencies
 - get
